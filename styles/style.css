@@ -17,3 +17,11 @@ body {
     margin: 0;
     text-align: center;
 }
+
+.intro {
+    background-color: blue;
+    color: bisque;
+    margin: 16px;
+    padding: 24px;
+    font-size: 2rem;
+}
