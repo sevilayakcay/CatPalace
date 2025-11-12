@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: aquamarine;
+    padding: 24px;
+}
+
+.header_title {
+    color: black;
+    font-size: 4rem;
+    margin: 0;
+    text-align: center;
+}
